@@ -1,0 +1,6 @@
+{
+  "name": "Oxygen gym",
+  "description": "A fitness website template.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
